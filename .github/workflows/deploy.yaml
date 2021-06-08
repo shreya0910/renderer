@@ -3,7 +3,6 @@ name: render-cloud-run
 on:
   push:
     branches:
-      - master
       - main
 
 env:
